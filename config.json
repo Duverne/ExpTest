@@ -1,6 +1,6 @@
 [
     {
-        "name": "Angling Risk Task",
+        "name": "Adapt Angling Risk Task",
         "template":"jspsych",
         "run": [
                 "static/js/jspsych/jspsych.js",
